@@ -3,3 +3,5 @@
 /tests/test.log
 /tests/coverage.html
 /composer.lock
+/composer-setup.php
+/composer.phar
